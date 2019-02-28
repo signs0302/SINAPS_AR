@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ramen" size="150.000000 150.000000" />
+    <ImageTarget name="SINAPS" size="150.000000 150.169495" />
+    <ImageTarget name="S" size="150.000000 150.169495" />
+    <ImageTarget name="P" size="150.000000 150.169495" />
+    <ImageTarget name="NA" size="150.000000 150.169495" />
+    <ImageTarget name="SI" size="150.000000 150.169495" />
+  </Tracking>
+</QCARConfig>

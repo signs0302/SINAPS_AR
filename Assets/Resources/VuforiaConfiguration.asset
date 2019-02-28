@@ -16,7 +16,7 @@ MonoBehaviour:
     ufoLicenseKey: QWNSUXlMai8vLy8vQUFBQUtPZ0JpMHBnRFVIdXVhZ0VUQkc3SWV4aXhyVGtHNWlETEpNVVNYS3lnVlZzUkFkMG5NVkZHTzhnckdicDlldnEzR2lpNnVudDk4Y05oRnRWMW5NNG1iSkd2ZU5NYTdvK2pncXZIV3Z4TXJnNnBxVmJUUXp2Q015STJVV3NnYU02cWJYUGpzUVdiYnRhdkI5TEJ6b0Zyb0ZNVmlXV3BmU2N0VFlHeDNpV1hUMlAwZWg1UUlZQWZBamJZRFJpZ2xaOFRtNDFRUjJaWDUwTTBUYjV2U0FaZ3Rsb2RuVmFPUnVNZkZHM050S3lkYXJxTXkyMUVGTVRla05qay9WSmlUU1dvYWZBeHVwL2FQeEdkcG04SjNBNUwvM0ZUcEFIWkZWTUg0SjdYdW5ITFAyZy9TdmwraUlSQXlXRzJROWdpcStmRHJRdXpVeExLSVdGZGNUTEhRM0lSM0duRnR1VjhwL2lseWlBekFKSmFHU1g=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 6
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
@@ -24,7 +24,7 @@ MonoBehaviour:
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
-    eyewearType: 2
+    eyewearType: 0
     stereoFramework: 0
     seeThroughConfiguration: 0
     viewerName: Generic Cardboard
